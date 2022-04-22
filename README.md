@@ -1,5 +1,5 @@
 # brush.tag (p5.js)
-Graffiti tags painted with generative brush.
+Generative graffiti tags painted in real time.
 
 ![image](https://user-images.githubusercontent.com/38255514/163990338-c2158095-9db7-47c0-a2df-e6187c7ec7df.png)
 
